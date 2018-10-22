@@ -47,6 +47,7 @@ int main()
 			++unknownCharacters;
 		}
 	}
+	//test
 
 	lengthOfStringSubmittedForAnalysis = textToAnalyze.length();
 	checkSum = unknownCharacters + vowels + consonants + digits + spaces;
